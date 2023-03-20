@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "modules": "^0.4.0",
+    "node": "^19.8.1",
+    "node-sass": "^8.0.0",
+    "sass": "^1.59.3"
+  },
+  "name": "visa-accardion",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemanbyrmva/visa-accardion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lemanbyrmva/visa-accardion/issues"
+  },
+  "homepage": "https://github.com/lemanbyrmva/visa-accardion#readme"
+}
